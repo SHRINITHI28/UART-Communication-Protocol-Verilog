@@ -200,12 +200,6 @@ The simulation verifies:
 - Accurate reconstruction of transmitted data
 - Loopback communication between transmitter and receiver
 
-### Simulation Waveform
-
-> *(Insert `UART_Waveform.png` here)*
-
----
-
 # Applications
 
 - Serial Communication Interfaces
@@ -224,6 +218,7 @@ The simulation verifies:
 - Configurable Stop Bits
 - Configurable Data Width (5/6/7/8 Bits)
 - FIFO Buffer Integration
+- Majority Voting
 - Framing Error Detection
 - Parity Error Detection
 - Overrun Error Detection
