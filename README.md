@@ -230,8 +230,8 @@ The simulation verifies:
 # Tools Used
 
 - Verilog HDL
-- Xilinx Vivado 2016.4
-- XSim Simulator
+- Xilinx Vivado 
+
 
 ---
 
